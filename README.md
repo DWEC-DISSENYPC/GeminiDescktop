@@ -195,4 +195,3 @@ Desarrollado con ❤️ utilizando **Electron** y **JavaScript** nativo.
 *Este proyecto es una aplicación cliente no oficial y no está afiliado a Google LLC.*
 
 </div>
-
